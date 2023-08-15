@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ericytex
-- 👀 I’m interested in DataScience, AI & ML, IOT research applications
-- 🌱 I’m currently learning DataScience
-- 💞️ I’m looking to collaborate on research projects that utilize DataScience, AI and ML. IOT has a brigt future too, so I am open.
+- 👀 I’m interested building application leveraging data using Machine learning
+- 🌱 I’m Data Nerd
+- 💞️ I’m looking to collaborate on research projects that heavily use Machine Learning. Open to Collaboration or just chat.
 - 📫 How to reach me ewatyeks@gmail.com
 
 <!---
